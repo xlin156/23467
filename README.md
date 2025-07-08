@@ -24,4 +24,5 @@
 
 永久免费，无需注册
 平台的所有内容都免费提供，观看时无需任何形式的注册、付费或会员订阅。你只需点击就能进入观看，简单快捷，免去烦恼。此外，没有任何隐藏费用，所有资源都可以直接在线观看。
-<span style="display:none;">[Canonical link](）</span>
+
+<span style="display:none;">[Canonical link](https://github.com/xlin156/23467 ）</span>
